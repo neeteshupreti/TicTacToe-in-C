@@ -95,7 +95,6 @@ void drawGrid()
 {
     setbkcolor(BLACK);
     cleardevice();
-	//readimagefile("grid.jpg",215,100,886,600); 
     line(420, 100, 420, 600); // Vertical line 1
     line(660, 100, 660, 600); // Vertical line 2
     line(215, 250, 885, 250); // Horizontal line 1
